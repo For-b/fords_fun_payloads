@@ -9,7 +9,7 @@ set sting=!string:~0,%%a!
 echo ^>!sting!
 ping localhost -n 1 >nul
 if %%a GEQ 2703 goto eof
-cls 
+-cls
 )
 
 :eof
