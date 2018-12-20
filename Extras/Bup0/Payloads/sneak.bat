@@ -1,1 +1,0 @@
-explorer "https://media.discordapp.net/attachments/491998181060509696/523299949610270731/image.png?width=450&height=470"
